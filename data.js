@@ -7,7 +7,7 @@ window.HOPE_DATA = {
 
   meta: {
     name: "Swapnil Garge",
-    headline: "AI & Data Science Leader · Manufacturing, Supply Chain, Commercial, & R&D",
+    headline: "AI & Data Science Leader · Manufacturing & Supply Chain",
     og_description: "AI and Data Science leader with 18+ years applying ML, optimization, and AI in manufacturing and supply chain — from $50M+/year process optimization at ExxonMobil to production agentic AI at DuPont. Now managing the team.",
     summary_short: "18+ years shipping optimization and AI in manufacturing and supply chain. From $50M+/year at ExxonMobil to production GenAI at DuPont — now leading the team.",
     site_url: "",
