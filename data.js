@@ -338,12 +338,11 @@ window.HOPE_DATA = {
         category: "analytical",
         items: [
           { name: "Machine Learning",                      level: 4, years: 15 },
-          { name: "Generative AI",                         level: 4, years: 3  },
+          { name: "Generative AI",                         level: 3, years: 2  },
           { name: "Deep Learning",                         level: 3, years: 8  },
           { name: "Agentic AI",                            level: 3, years: 2  },
           { name: "Retrieval-Augmented Generation (RAG)",  level: 3, years: 2  },
           { name: "Computer Vision",                       level: 3, years: 4  },
-          { name: "NLP",                                   level: 3, years: 6  }
         ]
       },
       "Optimization & Simulation": {
@@ -374,15 +373,14 @@ window.HOPE_DATA = {
         category: "programming",
         items: [
           { name: "Python", level: 4, years: 10 },
-          { name: "SQL",    level: 3, years: 15 },
-          { name: "MATLAB", level: 3, years: 15 }
+          { name: "SQL",    level: 2, years: 4},
         ]
       },
       "Leadership & Communication": {
         category: "interpersonal",
         items: [
           { name: "AI & Data Science Leadership",             level: 4, years: 6  },
-          { name: "Stakeholder Management",                    level: 3, years: 12 },
+          { name: "Stakeholder Management",                    level: 4, years: 12 },
           { name: "Solution Architecture",                     level: 3, years: 6  },
           { name: "Mentoring & Talent Development",            level: 3, years: 6  },
           { name: "Public Speaking & Technical Communication", level: 3, years: 10 }
