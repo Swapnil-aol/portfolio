@@ -39,7 +39,7 @@ window.HOPE_DATA = {
     show: true,
     headline_stats: [
       { icon: "schedule",    value: "18+",       label: "years in industrial AI & optimization" },
-      { icon: "payments",    value: "$432K/site", label: "predictive maintenance cost reduction per site" },
+      { icon: "payments",    value: "$432K/site", label: "maintenance cost reduction per site" },
       { icon: "trending_up", value: "$50M+/yr",  label: "optimization credits at ExxonMobil" },
       { icon: "hub",         value: "6,900+",    label: "AI-processed engineering standards" }
     ],
